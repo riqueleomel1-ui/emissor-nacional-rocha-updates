@@ -1,7 +1,7 @@
 {
-  "version": "0.10.3",
+  "version": "0.10.0",
   "sha256": "795675204ab2f2e110c3c4e701ac11fdaa5d6d6b3778501ca8f65d6545d4ea61",
-  "notes": "Corrige o pacote do atualizador automatico e prepara a instalacao das proximas versoes sem substituicao manual.",
+  "notes": "Canal temporariamente pausado para correcao do atualizador. Nao instalar automaticamente.",
   "parts": [
     "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.10.3/updater00.txt",
     "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.10.3/updater01.txt",
