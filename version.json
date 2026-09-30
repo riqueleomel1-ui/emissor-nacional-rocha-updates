@@ -1,6 +1,13 @@
 {
-  "version": "0.10.0",
-  "sha256": "591733f392d53ed3993db6d47997219f40cc80c89a98cdb332c7aee59b671696",
-  "notes": "Atualizacao automatica integrada e localizacao automatica do codigo IBGE por UF e municipio.",
-  "parts": []
+  "version": "0.10.1",
+  "sha256": "45f6805addfe2075c5033ab8159f71b172e5901d1644e6274b98803732313368",
+  "notes": "Corrige a comunicacao com a Sefin Nacional, forcando HTTP/1.1 nas chamadas da API.",
+  "parts": [
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.10.1/patch00.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.10.1/patch01.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.10.1/patch02.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.10.1/patch03.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.10.1/patch04.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.10.1/patch05.txt"
+  ]
 }
