@@ -1,13 +1,24 @@
 {
-  "version": "0.10.1",
-  "sha256": "45f6805addfe2075c5033ab8159f71b172e5901d1644e6274b98803732313368",
-  "notes": "Corrige a comunicacao com a Sefin Nacional, forcando HTTP/1.1 nas chamadas da API.",
+  "version": "0.11.1",
+  "sha256": "de13f5f24e09a31d97188cff079ecb2aa195bdf1fd0ddb18fdfb874db23221c2",
+  "notes": "Atualizacao automatica funcional, tarefas em segundo plano, central de NFS-e e melhorias no certificado digital.",
   "parts": [
-    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.10.1/patch00.txt",
-    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.10.1/patch01.txt",
-    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.10.1/patch02.txt",
-    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.10.1/patch03.txt",
-    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.10.1/patch04.txt",
-    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.10.1/patch05.txt"
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot00.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot01.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot02a.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot02b.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot03.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot04.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot05a.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot05b.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot06a.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot06b.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot07.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot08.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot09.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot10.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot11.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot12.txt",
+    "https://raw.githubusercontent.com/riqueleomel1-ui/emissor-nacional-rocha-updates/main/releases/0.11.1/boot13.txt"
   ]
 }
